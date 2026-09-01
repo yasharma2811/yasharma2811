@@ -5,7 +5,7 @@ I'm a developer who enjoys building useful, reliable, and thoughtful digital exp
 - Currently learning and improving my software development skills
 - Interested in open source, web development, and problem solving
 - Open to collaborating on meaningful projects
-- Reach me at: **your.email@example.com**
+- Reach me at: **yk7814984@gmail.com**
 
 ## Tech Stack
 
